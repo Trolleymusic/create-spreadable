@@ -1,14 +1,14 @@
 {
-  "name": "create-thenable",
+  "name": "create-spreadable",
   "main": "./src",
-  "version": "1.0.1",
-  "description": "Create a thenable for a given Promise prototype",
+  "version": "1.1.0",
+  "description": "Create a spreadable for a given Promise prototype - fork of https://github.com/bendrucker/create-thenable",
   "license": "MIT",
-  "repository": "bendrucker/create-thenable",
+  "repository": "trolleymusic/create-spreadable",
   "author": {
-    "name": "Ben Drucker",
-    "email": "bvdrucker@gmail.com",
-    "url": "bendrucker.me"
+    "name": "Wayne Durack",
+    "email": "wayne.durack@gmail.com",
+    "url": "waynedurack.com"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -18,7 +18,7 @@
   },
   "keywords": [
     "promise",
-    "thenable",
+    "spreadable",
     "prototype"
   ],
   "dependencies": {
